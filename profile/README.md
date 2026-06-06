@@ -25,7 +25,7 @@ We favour small, focused teams, careful engineering, and software that earns tru
 
 | Product | What it is | Status |
 |---------|-----------|--------|
-| 🏠 **[lodgers.ie](https://lodgers.ie)** | A room-sharing marketplace for Ireland — connecting homeowners with rooms to let to people looking for a place to stay. | Active |
+| 🏠 **[lodgers.ie](https://lodgers.ie)** | A room-sharing marketplace for Ireland — connecting homeowners with rooms to let to people looking for a place to stay. | Coming soon |
 | 🎨 **[kukuln.ie](https://kukuln.ie)** | An artist-first marketplace where creatives sell their work and keep what they earn — zero commission. | Coming soon |
 
 ## How we work
