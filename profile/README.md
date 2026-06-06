@@ -40,7 +40,7 @@ TysonX is named after a dog — a Patterdale terrier, loyal and watchful. He's o
 
 ## Get in touch
 
-Business enquiries: **goodboy@tysonx.ie**
+Business & press: **goodBoy@tysonx.ie**
 
 <div align="center">
 
