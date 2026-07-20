@@ -36,7 +36,7 @@ We favour small, focused teams, careful engineering, and software that earns tru
 
 ## The name
 
-TysonX is named after a dog — a Patterdale terrier, loyal and watchful. He's on our logo, and he's the standard we hold our software to: shows up every day, asks for little, never lets you down.
+TysonX is a Patterdale terrier, loyal and watchful. He's the standard we hold our software to - he never lets you down.
 
 ## Get in touch
 
